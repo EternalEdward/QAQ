@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ratio": "cpp",
+        "random": "c",
+        "sstream": "c",
+        "regex": "c",
+        "string_view": "cpp"
+    }
+}
