@@ -5,6 +5,7 @@
         "random": "c",
         "sstream": "c",
         "regex": "c",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "iostream": "cpp"
     }
 }

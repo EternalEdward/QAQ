@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     char x[20];
     cin>>x;
-    scanf()
+    cout<<x<<endl;
     return 0;
 }
