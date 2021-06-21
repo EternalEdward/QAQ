@@ -17,7 +17,7 @@ void CreatText(LinkList &L){
     int n=1;//我的数据是从data[1]开始存储的
     cout<<"input your text:"<<endl;
     char ch;
-    scanf("%d",&ch);
+    scanf("%c",&ch);
     x=(LinkList)malloc(sizeof(Node));
     n=800;
     r=L;//这里使用尾插法
